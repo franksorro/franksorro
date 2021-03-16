@@ -10,12 +10,15 @@
 # ✨ Developer & DBA ✨
 
 ### Main skills
-<p align=left">
-  <img src="https://img.shields.io/static/v1?label=&message=.NET&color=563d7c&style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/static/v1?label=&message=AWS&color=f89500&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=025385&style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/static/v1?label=&message=MS%20SQL%20Server&color=9d1b21&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/static/v1?label=&message=Swift&color=f57c36&style=for-the-badge&logo=swift&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/static/v1?label=&message=.NET&color=512bd4&style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=PHP&color=777bb4&style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=Swift&color=fa7343&style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=AWS&color=232f3e&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=Azure&color=0089d6&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479a1&style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=MS%20SQL%20Server&color=cc2927&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=336791&style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=Realm&color=39477f&style=for-the-badge&logo=realm&logoColor=white" />
 </p>
 
