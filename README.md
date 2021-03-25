@@ -35,8 +35,15 @@
   <img src="https://img.shields.io/static/v1?label=&message=Git&color=f05032&style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=Bit%20Bucket&color=0052cc&style=for-the-badge&logo=Bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=DevOps&color=0078d4&style=for-the-badge&logo=tfs&logoColor=white" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/static/v1?label=&message=Teams&color=5558af&style=for-the-badge&logo=microsoft-teams&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=Zoom&color=2d8cff&style=for-the-badge&logo=zoom&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=Slack&color=3e0d24&style=for-the-badge&logo=slack&logoColor=white" />
+</p>
+          
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=&message=MarkDown&color=000000&style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
