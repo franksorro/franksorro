@@ -34,6 +34,7 @@
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=&message=Git&color=f05032&style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=GitHub%20actions&color=256DDE&style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=Bit%20Bucket&color=0052cc&style=for-the-badge&logo=Bitbucket&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=DevOps&color=0078d4&style=for-the-badge&logo=tfs&logoColor=white" />
 </p>
