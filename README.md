@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=336791&style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=SQLite&color=003b57&style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=Realm&color=39477f&style=for-the-badge&logo=realm&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=Mongo-DB&color=589636&style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 <p align="left">
@@ -50,5 +51,5 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=franksorro&show_icons=true&count_private=true&theme=dark" width="300"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=franksorro&show_icons=true&count_private=true&theme=dark" width="450"></a>
 </p>
