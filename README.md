@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=Azure&color=0089d6&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=Google%20Cloud&color=4285f4&style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=Firebase&color=ffca28&style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/static/v1?label=&message=Docker&color=0db7ed&style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 <p align="left">
@@ -51,5 +52,5 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=franksorro&show_icons=true&count_private=true&theme=dark" width="450"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=franksorro&show_icons=true&count_private=true&theme=dark" width="500"></a>
 </p>
