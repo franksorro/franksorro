@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=Teams&color=5558af&style=for-the-badge&logo=microsoft-teams&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=Zoom&color=2d8cff&style=for-the-badge&logo=zoom&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=Slack&color=3e0d24&style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=ClickUp&color=7485fc&style=for-the-badge&logo=clickup&logoColor=white" />
 </p>
           
 <p align="left">
