@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/franksorro">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/franksorro">
+  <a href="https://twitter.com/bigsorrent">
     <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=00acee&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>
 </p>
@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=Google%20Cloud&color=4285f4&style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=Firebase&color=ffca28&style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/static/v1?label=&message=Docker&color=0db7ed&style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=Oracle%20cloud&color=d05433&style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 <p align="left">
