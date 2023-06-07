@@ -26,6 +26,12 @@
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/static/v1?label=&message=IIS&color=006ebf&style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=apache&color=cc2030&style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=nginx&color=269539&style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479a1&style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=MS%20SQL%20Server&color=cc2927&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=336791&style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -52,8 +58,4 @@
           
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=&message=MarkDown&color=000000&style=for-the-badge&logo=markdown&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=franksorro&show_icons=true&count_private=true&theme=dark" width="500"></a>
 </p>
