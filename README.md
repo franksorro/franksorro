@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=Firebase&color=ffca28&style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/static/v1?label=&message=Docker&color=0db7ed&style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=Oracle%20cloud&color=d05433&style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=nuget&color=004880&style=for-the-badge&logo=nuget&logoColor=white" />
 </p>
 
 <p align="left">
@@ -28,6 +29,11 @@
   <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=336791&style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=SQLite&color=003b57&style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=Realm&color=39477f&style=for-the-badge&logo=realm&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/static/v1?label=&message=redis&color=7a0c00&style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=dynamodb&color=2d6fb2&style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
   <img src="https://img.shields.io/static/v1?label=&message=Mongo-DB&color=589636&style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
